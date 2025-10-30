@@ -7,3 +7,5 @@ This project analyzes Spotify streaming and generates insights like top artists 
 - Azure
 - Databricks
 - Snowflake
+
+# Quick Start/ Setup
