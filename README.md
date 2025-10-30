@@ -9,3 +9,5 @@ This project analyzes Spotify streaming and generates insights like top artists 
 - Snowflake
 
 # Quick Start/ Setup
+
+# Dependencies
