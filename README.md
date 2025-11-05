@@ -14,3 +14,5 @@ Client ID
 Client Secret
 
 # Dependencies
+#upload Spotify JSON data to Azure using the Azure Storage Blob SDK
+pip install azure-storage-blob
