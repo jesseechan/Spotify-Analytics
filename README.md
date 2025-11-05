@@ -9,5 +9,8 @@ This project analyzes Spotify streaming and generates insights like top artists 
 - Snowflake
 
 # Quick Start/ Setup
+Set up Spotify Developer account by creating App to gain access to:
+Client ID
+Client Secret
 
 # Dependencies
