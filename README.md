@@ -10,9 +10,9 @@ This project analyzes Spotify streaming and generates insights like top artists 
 
 # Quick Start/ Setup
 Set up Spotify Developer account by creating App to gain access to:
-Client ID
-Client Secret
+- Client ID
+- Client Secret
 
 # Dependencies
-#upload Spotify JSON data to Azure using the Azure Storage Blob SDK
+-upload Spotify JSON data to Azure using the Azure Storage Blob SDK
 pip install azure-storage-blob
