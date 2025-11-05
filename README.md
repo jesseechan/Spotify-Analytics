@@ -14,5 +14,6 @@ Set up Spotify Developer account by creating App to gain access to:
 - Client Secret
 
 # Dependencies
--upload Spotify JSON data to Azure using the Azure Storage Blob SDK
+Upload Spotify JSON data to Azure using the Azure Storage Blob SDK
+
 pip install azure-storage-blob
