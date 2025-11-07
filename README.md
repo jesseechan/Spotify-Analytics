@@ -13,6 +13,8 @@ Set up Spotify Developer account by creating App to gain access to:
 - Client ID
 - Client Secret
 
+Create .env file and save the Client ID, Client Secret to the .env file.
+
 # Dependencies
 Upload Spotify JSON data to Azure using the Azure Storage Blob SDK
 
