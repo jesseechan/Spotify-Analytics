@@ -31,4 +31,4 @@ Scopes grant authorization and information to third-party apps.
 Link to the documentation: https://developer.spotify.com/documentation/web-api/concepts/scopes
 
 # Roadmap
-- [] Add machine learning in Snowflake to extract lyrics to create mood classifications
+- [ ] Add machine learning in Snowflake to extract lyrics to create mood classifications
