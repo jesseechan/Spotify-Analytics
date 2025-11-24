@@ -19,3 +19,7 @@ Create .env file and save the Client ID, Client Secret to the .env file.
 Upload Spotify JSON data to Azure using the Azure Storage Blob SDK
 
 pip install azure-storage-blob
+
+# Scopes 
+Scopes grant authorization and information to third-party apps.
+Link to the documentation: https://developer.spotify.com/documentation/web-api/concepts/scopes
