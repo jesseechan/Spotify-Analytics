@@ -2,7 +2,6 @@
 
 This project analyzes Spotify streaming and generates insights like top artists by popularity, genre, and audio features. It is an end-to-end data pipeline that pulls real music data from the Spotify Web API, processes and enriches through Azure, Databricks, and loads it into Snowflake for analytics and visualization.
 
-<img width="783" height="677" alt="image" src="https://github.com/user-attachments/assets/a3e9ec5a-d0c6-4dc4-9e01-f2c82f5275dd" />
 
 
 # Tech Stack
@@ -22,6 +21,8 @@ Create .env file and save the Client ID, Client Secret to the .env file.
 Upload Spotify JSON data to Azure using the Azure Storage Blob SDK
 
 pip install azure-storage-blob
+
+<img width="783" height="677" alt="image" src="https://github.com/user-attachments/assets/a3e9ec5a-d0c6-4dc4-9e01-f2c82f5275dd" />
 
 # Scopes 
 Scopes grant authorization and information to third-party apps.
