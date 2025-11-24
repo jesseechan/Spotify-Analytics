@@ -28,3 +28,6 @@ pip install azure-storage-blob
 # Scopes 
 Scopes grant authorization and information to third-party apps.
 Link to the documentation: https://developer.spotify.com/documentation/web-api/concepts/scopes
+
+# Roadmap
+Future Plans: add machine learning in Snowflake to extract lyrics to create mood classifications
