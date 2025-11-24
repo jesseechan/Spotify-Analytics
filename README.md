@@ -1,6 +1,6 @@
 # Spotify API Analytics with Azure Databricks and Snowflake
 
-This project analyzes Spotify streaming and generates insights like top artists by popularity, genre, and audio features. It is an end-to-end data pipeline that pulls real music data from the Spotify Web API, processes and enriches through Azure, Databricks, and loads it into Snowflake for analytics and visualization.
+This project analyzes Spotify streaming and generates insights like top artists by popularity, genre, and audio features. It is an end-to-end data pipeline that pulls real music data from the Spotify Web API, processes and enriches through Azure Databricks, loads it into Snowflake for analytics, and connects to Power BI for dashboards and visualizations.
 
 
 
@@ -9,6 +9,7 @@ This project analyzes Spotify streaming and generates insights like top artists 
 - Azure
 - Databricks
 - Snowflake
+- Power BI
 
 # Quick Start/ Setup
 Set up [Spotify Developer](https://developer.spotify.com/) account by creating App to gain access to:
