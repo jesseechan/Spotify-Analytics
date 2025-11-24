@@ -22,7 +22,7 @@ Upload Spotify JSON data to Azure using the Azure Storage Blob SDK
 
 pip install azure-storage-blob
 
-# Client Credentials Flow (credit to Spotify)
+# Spotify Client Credentials Flow
 <img width="783" height="677" alt="image" src="https://github.com/user-attachments/assets/a3e9ec5a-d0c6-4dc4-9e01-f2c82f5275dd" />
 
 # Scopes 
